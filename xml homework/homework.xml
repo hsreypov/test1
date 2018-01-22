@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href="styles.xsl"?>
+
+<booklist>
+	<book>
+		<authorname>thy len1</authorname>
+		<title lang='kh' status='new'>love story1</title>
+		<publicyear>2010</publicyear>
+		<page>100</page>
+		<isbn>001</isbn>
+	</book>
+	
+	<book>
+		<authorname>thy len2</authorname>
+		<title>love story2</title>
+		<publicyear>2020</publicyear>
+		<page>200</page>
+		<isbn>002</isbn>
+	</book>
+	
+	<book>
+		<authorname>thy len3</authorname>
+		<title lang='kh' status='new'>love story3</title>
+		<publicyear>2017</publicyear>
+		<page>300</page>
+		<isbn>003</isbn>
+	</book>
+	
+	<book>
+		<authorname>thy len4</authorname>
+		<title lang='kh' status='new'>love story4</title>
+		<publicyear>2001</publicyear>
+		<page>400</page>
+		<isbn>004</isbn>
+	</book>
+</booklist>
